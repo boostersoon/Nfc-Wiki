@@ -39,3 +39,35 @@ NFC（Near Field Communication，近场通信）是一种短距离高频无线�
 如果你想本地浏览或参与编辑：
 
 1. 克隆本仓库：
+```
+git clone https://github.com/your-username/NFC-Wiki.git
+```
+2. 使用你喜欢的 Markdown 编辑器（如 VS Code、Typora）查看或修改文档。
+3. 通过 Pull Request 提交你的改进。
+
+## 🤝 贡献指南
+
+我们非常欢迎社区贡献！你可以通过以下方式参与：
+
+- 修正错别字或格式问题
+- 补充新的知识点或章节
+- 添加代码示例或项目案例
+- 翻译或校对其他语言版本
+
+请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细的贡献流程。
+
+## 📅 维护计划
+
+本项目目前由社区维护，定期更新内容并修复问题。详细的维护计划请见 [MAINTENANCE.md](MAINTENANCE.md)。
+
+## 📄 许可证
+
+本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
+
+## 🙏 致谢
+
+感谢所有为本项目提供内容和建议的贡献者！
+
+---
+
+⭐ 如果这个项目对你有帮助，请点个 Star 支持我们！
