@@ -40,7 +40,7 @@ NFC（Near Field Communication，近场通信）是一种短距离高频无线�
 
 1. 克隆本仓库：
 ```
-git clone https://github.com/your-username/NFC-Wiki.git
+[git clone https://github.com/your-username/NFC-Wiki.git](https://github.com/boostersoon/Nfc-Wiki.git)
 ```
 2. 使用你喜欢的 Markdown 编辑器（如 VS Code、Typora）查看或修改文档。
 3. 通过 Pull Request 提交你的改进。
